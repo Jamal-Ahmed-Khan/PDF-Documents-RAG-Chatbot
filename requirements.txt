@@ -1,0 +1,14 @@
+faiss-cpu
+pandas
+numpy
+chainlit
+ctransformers
+langchain-community
+langchain-huggingface
+langchain
+langchain-community
+langchain-experimental
+cmake
+fastapi
+flask
+pypdf
