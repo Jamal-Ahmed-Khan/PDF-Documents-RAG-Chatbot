@@ -11,9 +11,9 @@ A chatbot designed to handle PDF documents by summarizing their content or answe
 
 ## Tech Stack
 
-- **Backend**: [LangChain](https://www.langchain.com/) for document processing and logic.
-- **LLM**: LLaMA model deployed via [FastAPI](https://fastapi.tiangolo.com/).
-- **Frontend**: [Chainlit](https://www.chainlit.io/) for the user interface.
+- **Backend**: LangChain for document processing and logic.
+- **LLM**: LLaMA model deployed via FastAPI.
+- **Frontend**: Chainlit for the user interface.
 - **Model**: Any LLaMA variant for text understanding.
 
 ---
